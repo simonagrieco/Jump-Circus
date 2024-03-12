@@ -1,0 +1,29 @@
+{
+    "JumpToGoal": {
+        "checkpoints": [
+            {
+                "steps": 177327,
+                "file_path": "results\\7Training\\JumpToGoal\\JumpToGoal-177327.onnx",
+                "reward": null,
+                "creation_time": 1645644714.3778882,
+                "auxillary_file_paths": [
+                    "results\\7Training\\JumpToGoal\\JumpToGoal-177327.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 177327,
+            "file_path": "results\\7Training\\JumpToGoal.onnx",
+            "reward": null,
+            "creation_time": 1645644714.3778882,
+            "auxillary_file_paths": [
+                "results\\7Training\\JumpToGoal\\JumpToGoal-177327.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "JumpToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499886,
+                "file_path": "results\\12Training\\JumpToGoal\\JumpToGoal-499886.onnx",
+                "reward": -2.123799979686737,
+                "creation_time": 1645720311.8505309,
+                "auxillary_file_paths": [
+                    "results\\12Training\\JumpToGoal\\JumpToGoal-499886.pt"
+                ]
+            },
+            {
+                "steps": 999937,
+                "file_path": "results\\12Training\\JumpToGoal\\JumpToGoal-999937.onnx",
+                "reward": null,
+                "creation_time": 1645721966.004334,
+                "auxillary_file_paths": [
+                    "results\\12Training\\JumpToGoal\\JumpToGoal-999937.pt"
+                ]
+            },
+            {
+                "steps": 1499984,
+                "file_path": "results\\12Training\\JumpToGoal\\JumpToGoal-1499984.onnx",
+                "reward": null,
+                "creation_time": 1645723669.362313,
+                "auxillary_file_paths": [
+                    "results\\12Training\\JumpToGoal\\JumpToGoal-1499984.pt"
+                ]
+            },
+            {
+                "steps": 1521147,
+                "file_path": "results\\12Training\\JumpToGoal\\JumpToGoal-1521147.onnx",
+                "reward": null,
+                "creation_time": 1645724018.079332,
+                "auxillary_file_paths": [
+                    "results\\12Training\\JumpToGoal\\JumpToGoal-1521147.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1521147,
+            "file_path": "results\\12Training\\JumpToGoal.onnx",
+            "reward": null,
+            "creation_time": 1645724018.079332,
+            "auxillary_file_paths": [
+                "results\\12Training\\JumpToGoal\\JumpToGoal-1521147.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

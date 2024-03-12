@@ -1,0 +1,47 @@
+{
+    "JumpToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499981,
+                "file_path": "results\\13Training\\JumpToGoal\\JumpToGoal-499981.onnx",
+                "reward": null,
+                "creation_time": 1645726047.3106606,
+                "auxillary_file_paths": [
+                    "results\\13Training\\JumpToGoal\\JumpToGoal-499981.pt"
+                ]
+            },
+            {
+                "steps": 999913,
+                "file_path": "results\\13Training\\JumpToGoal\\JumpToGoal-999913.onnx",
+                "reward": null,
+                "creation_time": 1645727562.60671,
+                "auxillary_file_paths": [
+                    "results\\13Training\\JumpToGoal\\JumpToGoal-999913.pt"
+                ]
+            },
+            {
+                "steps": 1054782,
+                "file_path": "results\\13Training\\JumpToGoal\\JumpToGoal-1054782.onnx",
+                "reward": null,
+                "creation_time": 1645727758.4232717,
+                "auxillary_file_paths": [
+                    "results\\13Training\\JumpToGoal\\JumpToGoal-1054782.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1054782,
+            "file_path": "results\\13Training\\JumpToGoal.onnx",
+            "reward": null,
+            "creation_time": 1645727758.4232717,
+            "auxillary_file_paths": [
+                "results\\13Training\\JumpToGoal\\JumpToGoal-1054782.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

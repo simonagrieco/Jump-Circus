@@ -1,0 +1,65 @@
+{
+    "JumpToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499972,
+                "file_path": "results\\14Training\\JumpToGoal\\JumpToGoal-499972.onnx",
+                "reward": null,
+                "creation_time": 1645733222.3990273,
+                "auxillary_file_paths": [
+                    "results\\14Training\\JumpToGoal\\JumpToGoal-499972.pt"
+                ]
+            },
+            {
+                "steps": 999909,
+                "file_path": "results\\14Training\\JumpToGoal\\JumpToGoal-999909.onnx",
+                "reward": null,
+                "creation_time": 1645734581.731821,
+                "auxillary_file_paths": [
+                    "results\\14Training\\JumpToGoal\\JumpToGoal-999909.pt"
+                ]
+            },
+            {
+                "steps": 1499926,
+                "file_path": "results\\14Training\\JumpToGoal\\JumpToGoal-1499926.onnx",
+                "reward": null,
+                "creation_time": 1645735900.1600387,
+                "auxillary_file_paths": [
+                    "results\\14Training\\JumpToGoal\\JumpToGoal-1499926.pt"
+                ]
+            },
+            {
+                "steps": 1999972,
+                "file_path": "results\\14Training\\JumpToGoal\\JumpToGoal-1999972.onnx",
+                "reward": null,
+                "creation_time": 1645737364.3435898,
+                "auxillary_file_paths": [
+                    "results\\14Training\\JumpToGoal\\JumpToGoal-1999972.pt"
+                ]
+            },
+            {
+                "steps": 2000100,
+                "file_path": "results\\14Training\\JumpToGoal\\JumpToGoal-2000100.onnx",
+                "reward": null,
+                "creation_time": 1645737364.4945455,
+                "auxillary_file_paths": [
+                    "results\\14Training\\JumpToGoal\\JumpToGoal-2000100.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000100,
+            "file_path": "results\\14Training\\JumpToGoal.onnx",
+            "reward": null,
+            "creation_time": 1645737364.4945455,
+            "auxillary_file_paths": [
+                "results\\14Training\\JumpToGoal\\JumpToGoal-2000100.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
